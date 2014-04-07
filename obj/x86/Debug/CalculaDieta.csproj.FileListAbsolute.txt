@@ -1,0 +1,8 @@
+c:\users\pretinho\documents\visual studio 2010\Projects\slnCalculaDieta\CalculaDieta\bin\Debug\CalculaDieta.exe
+c:\users\pretinho\documents\visual studio 2010\Projects\slnCalculaDieta\CalculaDieta\bin\Debug\CalculaDieta.pdb
+c:\users\pretinho\documents\visual studio 2010\Projects\slnCalculaDieta\CalculaDieta\obj\x86\Debug\CalculaDieta.Form1.resources
+c:\users\pretinho\documents\visual studio 2010\Projects\slnCalculaDieta\CalculaDieta\obj\x86\Debug\CalculaDieta.Properties.Resources.resources
+c:\users\pretinho\documents\visual studio 2010\Projects\slnCalculaDieta\CalculaDieta\obj\x86\Debug\CalculaDieta.exe
+c:\users\pretinho\documents\visual studio 2010\Projects\slnCalculaDieta\CalculaDieta\obj\x86\Debug\CalculaDieta.pdb
+C:\Users\Pretinho\documents\visual studio 2010\Projects\slnCalculaDieta\CalculaDieta\obj\x86\Debug\CalculaDieta.csprojResolveAssemblyReference.cache
+C:\Users\Pretinho\documents\visual studio 2010\Projects\slnCalculaDieta\CalculaDieta\obj\x86\Debug\CalculaDieta.csproj.GenerateResource.Cache
